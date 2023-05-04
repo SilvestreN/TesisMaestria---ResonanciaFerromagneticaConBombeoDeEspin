@@ -18,6 +18,7 @@ Para consultar la Tesis: https://drive.google.com/file/d/1rMETqixg-Fb43SShMUYHrK
 
 Paper Relacionado: https://arxiv.org/pdf/2212.12697.pdf
 
+.
 
 El análisis de datos se realizó en Origini Lab ( .opj  - https://www.originlab.com/ - ).
 Un software centrado en el análisis de datos para científicos. 
